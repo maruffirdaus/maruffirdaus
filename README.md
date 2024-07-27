@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there, I’m Ma’ruf Firdaus 👋
 
-<!--
-**maruffirdaus/maruffirdaus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 I’m an Informatics student at Telkom University Bandung, Indonesia
+- 🌱 I’m currently learning mobile app development, especially on Android platform
+- 📫 How to reach me: maruffirdaus@outlook.com
 
-Here are some ideas to get you started:
+## Languages & tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github.com/user-attachments/assets/994c19c3-06e3-443d-86c3-e8dafb86706d" height="24">
+
+## Recent projects
+
+![Stories](https://github.com/user-attachments/assets/1a949086-f6d3-4292-9cfa-994474158416)
