@@ -10,4 +10,4 @@
 
 ## Recent projects
 
-![Stories](https://github.com/user-attachments/assets/1a949086-f6d3-4292-9cfa-994474158416)
+![Stories](https://github.com/user-attachments/assets/c8c8edff-2a9d-4fcf-abd4-9029d392b7a5)
