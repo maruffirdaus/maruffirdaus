@@ -1,12 +1,12 @@
 ## Hi there, I’m Ma’ruf Firdaus 👋
 
 - 🎓 I’m an Informatics student at Telkom University Bandung, Indonesia
-- 🌱 I’m currently learning mobile app development, especially on Android platform
+- 🌱 I’m currently learning mobile app development, especially on the Android platform
 - 📫 How to reach me: maruffirdaus@outlook.com
 
-## Languages & tools
+## Languages, frameworks, & tools
 
-<img src="https://github.com/user-attachments/assets/994c19c3-06e3-443d-86c3-e8dafb86706d" height="24">
+<img src="https://github.com/user-attachments/assets/993d7d5d-73d3-4b46-8245-159c13ac82cf" height="24"> &nbsp; <img src="https://github.com/user-attachments/assets/d6b23093-a699-4eca-b652-ac2b7068f5c2" height="24">
 
 ## Recent projects
 
