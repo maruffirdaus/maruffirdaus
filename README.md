@@ -6,7 +6,7 @@
 
 ## Languages, frameworks, & tools
 
-<img src="https://github.com/user-attachments/assets/993d7d5d-73d3-4b46-8245-159c13ac82cf" height="24"> &nbsp; <img src="https://github.com/user-attachments/assets/d6b23093-a699-4eca-b652-ac2b7068f5c2" height="24">
+<img src="https://github.com/user-attachments/assets/ba9bc2b6-6050-40b0-a173-d0c0ea1d8e1d" height="24"> &nbsp; <img src="https://github.com/user-attachments/assets/96f7b1be-a184-4b72-b059-88177cd6bd6e" height="24"> &nbsp; <img src="https://github.com/user-attachments/assets/507f5427-32c0-41eb-b914-bb751f3812e0" height="24">
 
 ## Recent projects
 
