@@ -1,8 +1,8 @@
 ## Hi there, I’m Ma’ruf Firdaus 👋
 
-- 🎓 I’m an Informatics student at Telkom University Bandung, Indonesia
-- 🌱 I’m currently learning mobile app development, especially on the Android platform
-- 📫 How to reach me: maruffirdaus@outlook.com
+* 🎓 I'm an Informatics student at **Telkom University, Bandung, Indonesia**.
+* 🌱 Currently focusing on **Mobile App Development**, especially for the **Android platform**.
+* 📫 You can reach me at: `maruffirdaus@outlook.com`
 
 ## Languages, frameworks, & tools
 
@@ -10,4 +10,4 @@
 
 ## Recent projects
 
-![Stories](https://github.com/user-attachments/assets/c8c8edff-2a9d-4fcf-abd4-9029d392b7a5)
+![HydropoMe](https://github.com/user-attachments/assets/8482abf3-7058-4ad0-96c9-abab2f5efefc)
