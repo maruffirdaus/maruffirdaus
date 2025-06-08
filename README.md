@@ -4,11 +4,9 @@
 * 🌱 Currently focusing on **Mobile App Development**, especially for the **Android platform**.
 * 📫 You can reach me at: `maruffirdaus@outlook.com`
 
-## Languages, frameworks, & tools
+## Stats
 
-### Top languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maruffirdaus&exclude_repo=tugas1-keamanan-siber)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maruffirdaus&layout=compact&langs_count=20&exclude_repo=tugas1-keamanan-siber)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Recent projects
 
