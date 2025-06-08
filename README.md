@@ -6,7 +6,9 @@
 
 ## Languages, frameworks, & tools
 
-<img src="https://github.com/user-attachments/assets/ba9bc2b6-6050-40b0-a173-d0c0ea1d8e1d" height="24"> &nbsp; <img src="https://github.com/user-attachments/assets/96f7b1be-a184-4b72-b059-88177cd6bd6e" height="24"> &nbsp; <img src="https://github.com/user-attachments/assets/507f5427-32c0-41eb-b914-bb751f3812e0" height="24">
+### Top languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maruffirdaus&exclude_repo=tugas1-keamanan-siber)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Recent projects
 
