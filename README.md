@@ -1,7 +1,7 @@
 ## Hi there, I’m Ma’ruf Firdaus 👋
 
 * 🎓 I'm an Informatics student at **Telkom University, Bandung, Indonesia**.
-* 🌱 Currently focusing on **Mobile App Development**, especially for the **Android platform**, and also learning Backend Development using Node.js.
+* 🌱 Currently focusing on **Mobile App Development**, especially for the **Android platform**, and also learning **Backend Development** using **Node.js**.
 * 📫 You can reach me at: `maruffirdaus@outlook.com`
 
 ## Stats
